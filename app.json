@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "daily-todo-android",
+    "slug": "daily-todo-android",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "daily-todo-android"
+}
